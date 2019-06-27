@@ -1,2 +1,2 @@
-# LaMarrAHaynes
-capstone website
+= Steely Dan
+Fan Page Capstone
