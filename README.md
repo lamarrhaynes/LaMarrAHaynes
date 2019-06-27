@@ -1,2 +1,2 @@
-  = Steely Dan
+   Steely Dan
 Fan Page Capstone
